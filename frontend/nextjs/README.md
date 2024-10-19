@@ -2,11 +2,15 @@
 this project uses
 
 add lucide.dev  
+```bash
 npm install lucide  
-npm install lucide-react
+npm install lucide-react  
+```
 
 add axios  
-npm install axios
+```bash
+npm install axios  
+```
 
 run the development server:
 
